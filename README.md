@@ -1,6 +1,6 @@
 
 # Angular 4 Design Pattern
-
+Sampe test
 **A4** is a design pattern for large scale angular 4 applications that is easy to use and implement.
 
 ## Code Seperation
