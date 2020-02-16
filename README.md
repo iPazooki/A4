@@ -1,7 +1,11 @@
 
 # Angular 4 Design Pattern
+<<<<<<< HEAD
 Sampe test
 new content
+=======
+
+>>>>>>> parent of 9724c4d... change read me
 **A4** is a design pattern for large scale angular 4 applications that is easy to use and implement.
 
 ## Code Seperation
